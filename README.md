@@ -24,7 +24,7 @@ This function runs the `jouer_blackjack()` function multiple times (as specified
 ## Usage.
 
 ### Running the Simulation
-To run the simulation, execute the following code:
+To run the simulation, change the number of simulations:
 
 nombre_simulations = 1000 
-monte_carlo_blackjack(nombre_simulations)
+
